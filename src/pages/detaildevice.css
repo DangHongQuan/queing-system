@@ -1,0 +1,38 @@
+.text-dtDevice {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  color: var(--gray-gray-500, #282739);
+
+  /* 16/16 Semi */
+  font-size: 16px;
+  font-family: Nunito;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 24px;
+}
+.multi-line {
+    white-space: pre-line;
+  }
+  
+.tbdv{
+  color: var(--orange-orange-500, #FF7506);
+
+/* 20/20 Bold */
+font-size: 20px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 700;
+line-height: 30px;
+display: flex;
+}
+.mdv{
+  color: var(--gray-gray-500, #282739);
+
+/* 16/16 Semi */
+font-size: 16px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}

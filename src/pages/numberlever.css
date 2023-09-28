@@ -1,0 +1,32 @@
+.ctg {
+    display: flex;
+width: 106px;
+height: 24px;
+flex-direction: column;
+flex-shrink: 0;
+color: var(--gray-gray-500, #282739);
+
+/* 16/16 Semi */
+font-size: 16px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+}
+
+.tukhoa{
+    display: flex;
+width: 62px;
+height: 23.964px;
+flex-direction: column;
+flex-shrink: 0;
+color: var(--gray-gray-500, #282739);
+
+/* 16/16 Semi */
+font-size: 16px;
+font-family: Nunito;
+font-style: normal;
+font-weight: 600;
+line-height: 24px;
+margin-left: 20px;
+}

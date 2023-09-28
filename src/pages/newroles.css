@@ -1,0 +1,20 @@
+.ttvt {
+  color: var(--orange-orange-500, #ff7506) !important;
+
+  /* 20/20 Bold */
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 30px;
+}
+.pqcn-hd {
+  margin-top: -20px !important;
+}
+.br-addrole {
+
+height: 300px;
+flex-shrink: 0;
+  border-radius: 8px;
+  background: var(--orange-orange-50, #fff2e7) !important;
+}

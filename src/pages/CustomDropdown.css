@@ -1,0 +1,10 @@
+.custom-dropdown .ant-dropdown-menu {
+  left: auto !important;
+  right: 0 !important;
+  margin-left: -500px !important;
+}
+
+.custom-dropdown .ant-dropdown-menu-item {
+  text-align: left;
+  margin-left: -100px !important;
+}

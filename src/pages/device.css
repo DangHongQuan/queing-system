@@ -1,0 +1,122 @@
+.dstb {
+  color: var(--orange-orange-400, #ff9138);
+}
+.hederpc {
+  color: var(--gray-blue-gray-4-place-holder, #7e7d88);
+  /* 20/20 Bold */
+  font-size: 20px;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: 30px;
+  display: flex;
+  margin-top: 20px;
+}
+.dstbhome {
+  color: var(--orange-orange-500, #ff7506);
+  /* 24/24 Bold */
+  font-size: 24px;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: 36px;
+  display: flex;
+  margin-left: 40px;
+  margin-top: 80px;
+}
+.tthd {
+  color: var(--gray-gray-500, #282739);
+
+  /* 16/16 Semi */
+  font-size: 16px;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+  margin-left: 20px;
+}
+.inputdvc {
+  display: flex;
+  width: 300px;
+  height: 44px;
+  padding: 10px 12px;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  border: 1.5px solid var(--gray-gray-100, #d4d4d7);
+  background: var(--white, #fff);
+  margin-left: 50px;
+  margin-top: -15px;
+}
+.tk {
+  color: var(--gray-gray-500, #282739);
+
+  /* 16/16 Semi */
+  font-size: 16px;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+}
+.ttkn {
+  color: var(--gray-gray-500, #282739);
+
+  /* 16/16 Semi */
+  font-size: 16px;
+  font-family: Nunito;
+  font-weight: 600;
+  line-height: 24px;
+  display: flex;
+  margin-left: 20px;
+}
+
+.tc {
+  margin-left: -200px !important;
+}
+.ant-table-thead > tr > th,
+.ant-table-thead > tr > td {
+  background-color: #ff9138 !important;
+  color: #fff !important;
+}
+
+.bgaDvice {
+  border-radius: 8px 0px 0px 8px;
+  background: var(--orange-orange-50, #fff2e7);
+
+  /* down */
+  width: 100px;
+  height: 120px;
+  box-shadow: 0px 0px 6px 0px #e7e9f2;
+}
+
+*option:hover{
+  background-color: red !important;
+}
+:where(.css-dev-only-do-not-override-12upa3x).ant-select-single.ant-select-show-arrow .ant-select-selection-item, :where(.css-dev-only-do-not-override-12upa3x).ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+  padding-inline-end: 18px;
+  
+}
+.custom-ms{
+  margin-left: 30px;
+}
+.custom-tk{
+  margin-left: -35px !important;
+}
+
+.table-row-even {
+  background-color: #FFFFFF; /* Màu nền cho dòng chẵn */
+}
+
+.table-row-odd {
+  background: var(--orange-orange-50, #FFF2E7);
+}
+
+.link-a{
+  color: var(--blue, #4277FF);
+
+/* 14/14 Reg Underline */
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 21px; /* 150% */
+text-decoration-line: underline;
+}

@@ -1,0 +1,8 @@
+:where(.css-dev-only-do-not-override-12upa3x).ant-menu-light .ant-menu-item-selected, :where(.css-dev-only-do-not-override-12upa3x).ant-menu-light>.ant-menu .ant-menu-item-selected {
+    color: rgb(15, 10, 10);
+    background-color:white;
+   transition: none !important;
+
+   transform: none !important
+
+}

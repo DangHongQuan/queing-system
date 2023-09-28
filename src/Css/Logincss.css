@@ -1,0 +1,72 @@
+.bglogin {
+  background: red;
+}
+.mt-10 {
+  margin-top: 150px;
+}
+.bg-home {
+  width: 100%;
+}
+.ab {
+  padding-left: 100px;
+}
+.labletk{
+    margin-left: -300px;
+}
+.lablemk{
+    margin-left: -325px;
+}
+
+.btlogin {
+  border-radius: 8px;
+  background: var(--orange-orange-400, #ff9138);
+  /* down */
+  box-shadow: 0px 0px 6px 0px #e7e9f2;
+  color: white;
+}
+.qmklogin {
+   
+  text-decoration: none;
+ margin-left: -290px;
+
+  color: var(--red, #e73f3f);
+  /* 14/14 Reg */
+  font-size: 14px;
+
+  line-height: 21px;
+}
+
+.bglogo{
+    display: flex;
+    width: 170px;
+    height: 136px;
+    padding: 0px 0px 0.044px 0px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+.layoutlogin{
+    color: rgb(142, 37, 37);
+}
+.layoytlog{
+    background-color: rgb(246, 246, 246);
+    width: 100%;
+}
+
+.layout{
+  
+    width: 1440px !important;
+    height: 810px !important;
+    
+}
+.input{
+ 
+width: 400px;
+height: 44px;
+/* padding: 10px 270px 10px 12px; */
+align-items: center;
+gap: 10px;
+border-radius: 8px;
+border: 1.5px solid var(--gray-gray-100, #D4D4D7);
+background: var(--white, #FFF);
+}

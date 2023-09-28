@@ -1,0 +1,15 @@
+.dsdv{
+    color: var(--orange-orange-500, #FF7506);
+
+    /* 24/24 Bold */
+    font-size: 24px;
+    font-family: Nunito;
+    font-style: normal;
+    font-weight: 700;
+}
+
+:where(.css-dev-only-do-not-override-12upa3x).ant-select-single:not(.ant-select-customize-input) .ant-select-selector {
+    width: 100%;
+    height: 33px;
+    padding: 0 11px;
+}
